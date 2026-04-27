@@ -1,0 +1,4 @@
+[server]
+port = 3200
+enableCORS = false
+enableXsrfProtection = false
